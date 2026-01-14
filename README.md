@@ -22,7 +22,7 @@
     This project requires Ollama to be running in the background.
     Step 1: Download and install the Ollama Client.
     Step 2: Open your terminal and pull the specific fact-checking model used in this code:
-    '''powershell
+    ```powershell
     ollama pull bespoke-minicheck
 
 
@@ -30,4 +30,5 @@
 - Wikipedia Mode: Enter a claim. The app will scrape the top 3 relevant Wikipedia entries and provide a synthesized truth-score.
 - Manual Mode: Click "Use Manual Input" to paste a specific document or news article you want the AI to verify against your statement.
 - Console Monitoring: The terminal will display the "raw" AI thinking process and individual article processing times for performance tracking.
+
 
