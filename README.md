@@ -9,7 +9,7 @@
 **Prerequisites**
 
 - Python 3.10+
-- [Ollama](ollama.com) (Local LLM runner)
+- [Ollama](https://ollama.com) (Local LLM runner)
 - A machine capable of running local models (8GB+ RAM recommended)
 
 **Quick Setup**
@@ -30,3 +30,4 @@
 - Wikipedia Mode: Enter a claim. The app will scrape the top 3 relevant Wikipedia entries and provide a synthesized truth-score.
 - Manual Mode: Click "Use Manual Input" to paste a specific document or news article you want the AI to verify against your statement.
 - Console Monitoring: The terminal will display the "raw" AI thinking process and individual article processing times for performance tracking.
+
