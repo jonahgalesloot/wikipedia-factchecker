@@ -25,10 +25,13 @@
     ```powershell
     ollama pull bespoke-minicheck
 
+3. Replace User Agent Email address with a valid email address (yours)
+
 
 **Usage Tutorial**
 - Wikipedia Mode: Enter a claim. The app will scrape the top 3 relevant Wikipedia entries and provide a synthesized truth-score.
 - Manual Mode: Click "Use Manual Input" to paste a specific document or news article you want the AI to verify against your statement.
 - Console Monitoring: The terminal will display the "raw" AI thinking process and individual article processing times for performance tracking.
+
 
 
